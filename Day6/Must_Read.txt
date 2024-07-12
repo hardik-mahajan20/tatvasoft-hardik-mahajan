@@ -1,0 +1,19 @@
+Day 6 Task :- User Retrieval, User CRUD(05-JULY-2024)
+
+-> In this task, I understood the concept of CRUD (Create, Read, Update, Retrieval).
+-> I have implemented the concept learned in the session.
+-> I have added comments for convenience.
+-> Admin first gets the JWT token and authorizes him/her using the "Bearer" keyword, and then only he/she can be authorized.
+-> Admins have authority to create- users, read user details, update users, etc.
+-> I have used Employee just for the real-time example.
+
+Things Done :-
+
+[1] Created Database and table for User and Admin✔️(CRUD)
+
+[2] Created Controller for create, update, delete, add of user(EmployeeController.cs)
+
+[3] Used swagger to implement and test the created Login-API✔️
+
+Reference Used :- Database :- CRUD Database
+		  Project :- As per uploaded on Drive
