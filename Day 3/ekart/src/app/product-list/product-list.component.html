@@ -1,0 +1,14 @@
+<div>
+    <img bind-src="product.image1">
+    <p>Name :- {{name}}</p><!--String Interpolation--> 
+    <p>Color :- {{color}}</p>
+    <p>MRP :- ${{price}}</p>
+    <p>Our Discount :- {{discount}}%</p>
+    <p>Final Price :- ${{finalPrice()}}</p>
+    <button bind-disabled="!(inStock>0)">Buy Now</button><!--Property Binding-->
+    <input (input)="onNameChange($event)" placeholder="Enter your name" id="1">
+    <p>name: {{e_name}}</p>
+    <button (click)="dcmCartValue()">-</button><!--Event Binding-->
+    <span>{{addToCart}}</span>
+    <button (click)="incCartValue()">+</button>
+</div>
