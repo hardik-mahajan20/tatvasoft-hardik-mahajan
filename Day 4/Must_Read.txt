@@ -1,0 +1,19 @@
+Day 4 Task :- Introduction to .NET, .NET with Code First approach, LINQ, and Login Page(03-JULY-2024)
+
+-> In this task, I have learned the basics of.NET and ASP.NET.
+-> I learned the difference between a code-first approach and a database-first approach.
+-> I have implemented the concept learned in the session.
+-> Registered users or admins can login using credentials like email addresses and passwords.
+-> By mistake, I have named the Main-Folder and Solution-Folder Day3, so just consider it as Login-Folder in is necessary.
+-> I have also added comments for convenience.
+
+Things Done :-
+
+[1] Created Database for Entries✔️(Login Database)
+
+[2] Created Controller for Login-Login WEB API✔️(LoginController.cs)
+
+[3] Used swagger to implement and test the created Login-API✔️
+
+Reference Used :- Database :- Login Database
+		  Project :- As per uploaded on Drive
