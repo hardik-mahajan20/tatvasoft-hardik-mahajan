@@ -1,0 +1,5 @@
+Day 9 Task :- Azure Session(09-JULY-2024)
+
+-> This was a basic lecture for information about what Azure is.
+-> Azure, also known as Microsoft Azure, is a cloud computing platform and a suite of cloud services offered by Microsoft. It provides a wide range of cloud-based services and solutions that enable organizations to build, deploy, and manage applications and services through Microsoft's global network of data centers.
+-> I got to know about how to use Azure free services as a student.
