@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day6\\CRUD_Using_Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{533AF9DC-EC11-4322-825B-8E8D09C1ACBC}|CRUD\\CRUD.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day6\\crud_using_database\\crud\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533AF9DC-EC11-4322-825B-8E8D09C1ACBC}|CRUD\\CRUD.csproj|solutionrelative:crud\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533AF9DC-EC11-4322-825B-8E8D09C1ACBC}|CRUD\\CRUD.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day6\\crud_using_database\\crud\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533AF9DC-EC11-4322-825B-8E8D09C1ACBC}|CRUD\\CRUD.csproj|solutionrelative:crud\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533AF9DC-EC11-4322-825B-8E8D09C1ACBC}|CRUD\\CRUD.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day6\\crud_using_database\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533AF9DC-EC11-4322-825B-8E8D09C1ACBC}|CRUD\\CRUD.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533AF9DC-EC11-4322-825B-8E8D09C1ACBC}|CRUD\\CRUD.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day6\\crud_using_database\\crud\\model\\addupdateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533AF9DC-EC11-4322-825B-8E8D09C1ACBC}|CRUD\\CRUD.csproj|solutionrelative:crud\\model\\addupdateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533AF9DC-EC11-4322-825B-8E8D09C1ACBC}|CRUD\\CRUD.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day6\\crud_using_database\\crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533AF9DC-EC11-4322-825B-8E8D09C1ACBC}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533AF9DC-EC11-4322-825B-8E8D09C1ACBC}|CRUD\\CRUD.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day6\\crud_using_database\\crud\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533AF9DC-EC11-4322-825B-8E8D09C1ACBC}|CRUD\\CRUD.csproj|solutionrelative:crud\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533AF9DC-EC11-4322-825B-8E8D09C1ACBC}|CRUD\\CRUD.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day6\\crud_using_database\\crud\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533AF9DC-EC11-4322-825B-8E8D09C1ACBC}|CRUD\\CRUD.csproj|solutionrelative:crud\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day6\\CRUD_Using_Database\\CRUD\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "CRUD\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day6\\CRUD_Using_Database\\CRUD\\EmployeeDbContext.cs",
+              "RelativeToolTip": "CRUD\\EmployeeDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:20:35.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day6\\CRUD_Using_Database\\CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day6\\CRUD_Using_Database\\CRUD\\Program.cs",
+              "RelativeToolTip": "CRUD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:20:33.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day6\\CRUD_Using_Database\\CRUD\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "CRUD\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day6\\CRUD_Using_Database\\CRUD\\Model\\Employee.cs",
+              "RelativeToolTip": "CRUD\\Model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:20:27.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day6\\CRUD_Using_Database\\CRUD\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CRUD\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day6\\CRUD_Using_Database\\CRUD\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CRUD\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:52:33.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day6\\CRUD_Using_Database\\CRUD\\Service\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "CRUD\\Service\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day6\\CRUD_Using_Database\\CRUD\\Service\\IEmployeeService.cs",
+              "RelativeToolTip": "CRUD\\Service\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:52:29.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day6\\CRUD_Using_Database\\CRUD\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "CRUD\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day6\\CRUD_Using_Database\\CRUD\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "CRUD\\Service\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:52:28.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddUpdateEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day6\\CRUD_Using_Database\\CRUD\\Model\\AddUpdateEmployee.cs",
+              "RelativeDocumentMoniker": "CRUD\\Model\\AddUpdateEmployee.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day6\\CRUD_Using_Database\\CRUD\\Model\\AddUpdateEmployee.cs",
+              "RelativeToolTip": "CRUD\\Model\\AddUpdateEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:52:24.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
