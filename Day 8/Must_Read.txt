@@ -1,0 +1,17 @@
+Day 8 Task :- Mission Skill CRUD and Mission Listing User Side(09-JULY-2024)
+
+-> In this task we have to perform the Mission Skill CRUD.
+-> Admins have authority to create-mission-skill, read mission-skill details, update mission-skill, etc.
+-> I have tried the UI and API with dummy data and it is working successfully.
+-> In this task soft-delete method is used for Mission Skill deletion.
+-> I have added comments for convenience.
+
+
+Things Done :-
+
+[1] Created Database and table for the task✔️(Day 8 Database)
+
+[2] Used swagger to implement and test the created API✔️
+
+Reference Used :- Database :- Day8 Database
+		  Project :- As per uploaded on Drive
