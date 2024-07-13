@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Authentication",
+    "\\Authentication\\Controllers",
+    "\\Authentication\\Entities",
+    "\\Authentication\\Model",
+    "\\Authentication\\Repository"
+  ],
+  "SelectedNode": "\\Authentication.sln",
+  "PreviewInSolutionExplorer": false
+}

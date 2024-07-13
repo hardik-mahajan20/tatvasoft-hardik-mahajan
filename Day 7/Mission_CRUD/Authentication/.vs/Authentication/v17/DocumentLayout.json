@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day7\\mission_crud\\authentication\\authentication\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day7\\mission_crud\\authentication\\authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day7\\mission_crud\\authentication\\authentication\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day7\\mission_crud\\authentication\\authentication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day7\\mission_crud\\authentication\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day7\\mission_crud\\authentication\\authentication\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Migrations\\20240713135301_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Authentication\\Migrations\\20240713135301_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day7\\mission_crud\\authentication\\authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day7\\mission_crud\\authentication\\authentication\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day7\\mission_crud\\authentication\\authentication\\repository\\imission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\imission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day7\\mission_crud\\authentication\\authentication\\repository\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day7\\mission_crud\\authentication\\authentication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\hardik\\onedrive\\desktop\\tatvasoft-hardik-mahajan\\day7\\mission_crud\\authentication\\authentication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Authentication\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Entities\\User.cs",
+              "RelativeToolTip": "Authentication\\Entities\\User.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAUwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:41:58.724Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240713135301_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Migrations\\20240713135301_Initial.cs",
+              "RelativeDocumentMoniker": "Authentication\\Migrations\\20240713135301_Initial.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Migrations\\20240713135301_Initial.cs",
+              "RelativeToolTip": "Authentication\\Migrations\\20240713135301_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T13:53:01.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Repository\\Mission.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\Mission.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Repository\\Mission.cs",
+              "RelativeToolTip": "Authentication\\Repository\\Mission.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:19:23.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:59:00.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthContext.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\AuthContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\AuthContext.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\AuthContext.cs",
+              "RelativeToolTip": "Authentication\\AuthContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:04:21.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication\\Program.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Program.cs",
+              "RelativeToolTip": "Authentication\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAA0wCoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:58:25.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Authentication\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Model\\User.cs",
+              "RelativeToolTip": "Authentication\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:37:29.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MissionController.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Controllers\\MissionController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\MissionController.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Controllers\\MissionController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\MissionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:16:02.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMission.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Repository\\IMission.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\IMission.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Repository\\IMission.cs",
+              "RelativeToolTip": "Authentication\\Repository\\IMission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:59:16.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:53:06.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication\\appsettings.json",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\appsettings.json",
+              "RelativeToolTip": "Authentication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T11:58:05.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Authentication\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\WeatherForecast.cs",
+              "RelativeToolTip": "Authentication\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:58:26.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\OneDrive\\Desktop\\tatvasoft-hardik-mahajan\\Day7\\Mission_CRUD\\Authentication\\Authentication\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:58:56.52Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
