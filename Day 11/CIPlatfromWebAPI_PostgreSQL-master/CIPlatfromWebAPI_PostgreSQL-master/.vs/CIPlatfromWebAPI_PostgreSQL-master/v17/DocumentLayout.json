@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\MissionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CIPlatfromWebAPI\\Controllers\\MissionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CIPlatfromWebAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\DALMission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data_Access_Layer\\DALMission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Repository\\Entities\\Missions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data_Access_Layer\\Repository\\Entities\\Missions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Repository\\Entities\\MissionSkill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data_Access_Layer\\Repository\\Entities\\MissionSkill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\AdminUserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CIPlatfromWebAPI\\Controllers\\AdminUserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Missions.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Repository\\Entities\\Missions.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Entities\\Missions.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Repository\\Entities\\Missions.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Entities\\Missions.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:41:58.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MissionSkill.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Repository\\Entities\\MissionSkill.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repository\\Entities\\MissionSkill.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Repository\\Entities\\MissionSkill.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repository\\Entities\\MissionSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:41:56.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\appsettings.json",
+              "RelativeToolTip": "CIPlatfromWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T10:39:36.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DALMission.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\DALMission.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALMission.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\DALMission.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALMission.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:51:50.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\AdminUserController.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\AdminUserController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\AdminUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:51:28.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MissionController.cs",
+              "DocumentMoniker": "C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\MissionController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\MissionController.cs",
+              "ToolTip": "C:\\Users\\HARDIK\\Downloads\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\MissionController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\MissionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:36:44.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

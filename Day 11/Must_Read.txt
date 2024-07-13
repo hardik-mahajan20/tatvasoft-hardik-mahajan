@@ -1,0 +1,12 @@
+Day 11: My Profile Page, Deployment
+Date : 12-July-24
+
+-> In this session, I connected both my backend and frontend parts and tried all the APIs.
+-> I joined the given Angular project to create a.NET project and tried to test all the APIs (Add, Register, etc.).
+-> I have also added the Angular project to this project.
+-> There is an issue with the frontend or backend; some APIs are not being hit by the frontend. I'm trying to solve this. 
+-> I have not uploaded Angular_VCProject-main folder because its size is too large, and not supported for GitHub
+
+Reference :- Database (Authentication_TS)
+          :- Angular  (Angular_VCProject-main)
+          :- .NET     (CIPlatfromWebAPI_PostgresSQL-master)
