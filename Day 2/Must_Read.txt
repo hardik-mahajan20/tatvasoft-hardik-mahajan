@@ -1,0 +1,10 @@
+Day 2 Task :- Introduction to PostgreSQL(01-JULY-2024)
+
+-> In this task, I have learned the basics of PostgreSQL databases and database schemas for my project. 
+-> I have done the basic practice of all queries in the session, and I have also completed the restoring task of the given database.
+
+Things Done :-
+
+[1] Performed all queries learned in session and Created database for project✔️(Practice_Database.sql)
+
+[2] Done Virtual community Support Database setup steps, Created new Database in PgAdmin, and restored AuthDb.sql file from PostgreSQL shared folder✔️(AuthDb.sql, Day2_DB.sql)
